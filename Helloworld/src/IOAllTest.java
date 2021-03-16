@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Helloworld {
+public class IOAllTest {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -35,5 +35,8 @@ public class Helloworld {
 		
 		//나누기 예제
 		System.out.println(sc.nextDouble()/sc.nextDouble());
+		
+		
+		    
 	}
 }
